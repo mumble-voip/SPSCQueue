@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.6)
+cmake_minimum_required(VERSION 3.6...4.1)
 
 project(SPSCQueue VERSION 1.1 LANGUAGES CXX)
 
